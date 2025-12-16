@@ -1,0 +1,5 @@
+package proyectoada.proyectoapi.Repositorios;
+
+public class EmpleadoRepository {
+    
+}
