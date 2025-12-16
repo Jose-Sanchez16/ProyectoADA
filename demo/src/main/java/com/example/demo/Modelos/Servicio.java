@@ -1,4 +1,4 @@
-package proyectoada.proyectoapi.Modelos;
+package com.example.demo.Modelos;
 
 public class Servicio {
     

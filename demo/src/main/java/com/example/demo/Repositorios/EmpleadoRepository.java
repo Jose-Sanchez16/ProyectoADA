@@ -1,4 +1,4 @@
-package proyectoada.proyectoapi.Repositorios;
+package com.example.demo.Repositorios;
 
 public class EmpleadoRepository {
     

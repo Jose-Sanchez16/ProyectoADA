@@ -1,4 +1,4 @@
-package proyectoada.proyectoapi.Controladores;
+package com.example.demo.Controladores;
 
 public class HabitacionController {
     
