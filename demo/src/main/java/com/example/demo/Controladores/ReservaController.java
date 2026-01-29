@@ -19,7 +19,7 @@ import java.util.Map;
 import java.util.Optional;
 
 @RestController
-@RequestMapping("/hotel/reservas")
+@RequestMapping("/reservas")
 @CrossOrigin(origins = "*")
 public class ReservaController {
 

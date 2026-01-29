@@ -13,7 +13,7 @@ import java.util.Map;
 import java.util.Optional;
 
 @RestController
-@RequestMapping("/hotel/habitaciones")
+@RequestMapping("/habitaciones")
 @CrossOrigin(origins = "*")
 public class HabitacionController {
 
